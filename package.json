@@ -1,0 +1,19 @@
+{
+  "name": "partyserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "partyserver": "^0.5.10"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "wrangler": "^4.160.1"
+  }
+}

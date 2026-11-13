@@ -1,0 +1,1 @@
+{"compatibility_date":"2025-06-01","compatibility_flags":["nodejs_compat"],"durable_objects":{"bindings":[{"class_name":"TemplePartyServer","name":"Main"}]},"main":"src/server.ts","migrations":[{"new_sqlite_classes":["TemplePartyServer"],"tag":"v1"}],"name":"tianya-temple"}
