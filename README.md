@@ -22,3 +22,4 @@ Total Upload 61.81 KiB，绑定 `env.Main (TemplePartyServer)` Durable Object �
 部署成功后 Worker 地址仍是 `tianya-temple.xiang5528.workers.dev`
 （更新已建好的 Worker，不会新建）。验证：打开根路径应回 404
 "Not Found"（正常，接口在 `/parties/main/<殿id>`）。
+Gao.
